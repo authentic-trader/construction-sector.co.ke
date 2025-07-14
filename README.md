@@ -235,7 +235,52 @@
         <p>Refined joinery and craftsmanship using premium materials.</p>
       </div>
     </div>
-  </section>
+  </section><!-- PDF Interaction Options -->
+<div style="text-align: center; margin-top: 60px;">
+
+  <!-- Download Button -->
+  <a href="Presentation 5.pdf" download style="
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: var(--primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  ">
+    📄 Download Company Profile (PDF)
+  </a>
+
+  <!-- View Button -->
+  <div style="margin-top: 20px;">
+    <a href="Presentation 5.pdf" target="_blank" style="
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: var(--secondary);
+      color: black;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    ">
+      👁️ View Company Profile Online
+    </a>
+  </div>
+</div>
+
+<!-- Embedded PDF Preview -->
+<section style="max-width: 1000px; margin: 60px auto;">
+  <h2 style="text-align: center; color: var(--primary);">Preview Our Company Profile</h2>
+  <iframe 
+    src="Presentation 5.pdf"
+    width="100%" 
+    height="600px" 
+    style="border: 1px solid #ccc; border-radius: 8px;">
+    This browser does not support embedded PDFs. 
+    <a href="Presentation 5.pdf" target="_blank">Download it instead.</a>
+  </iframe>
+</section>
+
 
 </body>
 </html>
