@@ -208,13 +208,13 @@
       <div class="service-card">
         <i class="fas fa-paint-roller"></i>
         <h3>Painting</h3>
-        <p>Premium coatings from brands like ORCO and DORCOR.</p>
+        <p>Premium coatings for aesthetic finish.</p>
       </div>
 
       <div class="service-card">
         <i class="fas fa-toilet"></i>
         <h3>Drainage & Sanitation</h3>
-        <p>Clean water systems powered by Gravena and Kensplastic.</p>
+        <p>Clean water systems and funtional drainange pipes to ensure hygiene.</p>
       </div>
 
       <div class="service-card">
